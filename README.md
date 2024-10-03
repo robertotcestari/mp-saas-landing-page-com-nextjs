@@ -8,12 +8,12 @@ Este mini-projeto será desenvolvido do zero — a transposição do design faz 
 
 ## 🔨 Requisitos
 
-- **Requisito 1: Navbar:** Implemente uma Navbar simples com:
+- **Navbar:** Implemente uma Navbar simples com:
     - Logotipo à esquerda.
     - Links de navegação (Funcionamento, Preço, Login) à direita.
     - Siga o design do Figma.
 
-- **Requisito 2: Seção Hero:** Crie a seção principal "Hero" com:
+- **Seção Hero:** Crie a seção principal "Hero" com:
     - Título: **"Simplifique Seus Estudos"**.
     - Subtítulo explicativo sobre a plataforma.
     - Campo de input para e-mail.
@@ -25,28 +25,28 @@ Este mini-projeto será desenvolvido do zero — a transposição do design faz 
 > - Use o componente `Input` do `shadcn/ui` para o campo de e-mail.
 > - Use o componente `Button` do `shadcn/ui` para todos os botões.
 
-- **Requisito 3: Seção "Como Funciona":** Explique o funcionamento em três etapas:
+- **Seção "Como Funciona":** Explique o funcionamento em três etapas:
     - Acesso a um ebook por mês.
     - Curadoria especial.
     - Cancelamento a qualquer momento.
     - Siga o design do Figma.
 
-- **Requisito 4: Seção de Preços:** Crie a seção de preços com destaque para o plano "Pro Premium VIP" (R$ 29/mês) incluindo:
+- **Seção de Preços:** Crie a seção de preços com destaque para o plano "Pro Premium VIP" (R$ 29/mês) incluindo:
     - 1 ebook por mês.
     - Curadoria especial.
     - Acesso ilimitado.
     - Cancelamento a qualquer momento.
 
-- **Requisito 5: Seção Final com CTA:** Incentive a assinatura com:
+- **Seção Final com CTA:** Incentive a assinatura com:
     - Título: **"Pronto Para Mudar Sua Vida?"**.
     - Texto de suporte.
     - Botão de CTA.
 
-- **Requisito 6: Rodapé:** Implemente um rodapé simples com:
+- **Rodapé:** Implemente um rodapé simples com:
     - Logotipo da empresa.
     - Copyright e informações legais.
 
-- **Requisito 7: Design Responsivo:** Adapte o design para dispositivos móveis:
+- **Design Responsivo:** Adapte o design para dispositivos móveis:
     - Crie um menu mobile com `shadcn/ui`.
     - Siga o design do Figma.
 
