@@ -53,7 +53,7 @@ Este mini-projeto será desenvolvido do zero — a transposição do design faz 
 
 ## 🔨 Desafio Extra
 
-- **Requisito Extra 1: Animações:** Adicione animações de transição suave ao rolar a página.
+- **Animações:** Adicione animações de transição suave ao rolar a página.
 
 ## 🎨 Design Sugerido
 
