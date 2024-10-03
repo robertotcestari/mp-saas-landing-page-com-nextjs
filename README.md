@@ -20,6 +20,7 @@ Este mini-projeto será desenvolvido do zero — a transposição do design faz 
     - Botão de call to action (CTA) **"Assine Agora"**.
     - Siga o design do Figma.
 
+
     > 👀 **Dicas**:
     >
     > - Use o componente `Input` do `shadcn/ui` para o campo de e-mail.
