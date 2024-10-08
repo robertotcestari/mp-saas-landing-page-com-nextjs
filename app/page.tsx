@@ -132,7 +132,7 @@ export default function Home() {
               </li>
               <li className="flex gap-2 text-muted-foreground">
                 <Check className="w-4 text-green-600" />
-                Acesso ilimitadop
+                Acesso ilimitado
               </li>
               <li className="flex gap-2 text-muted-foreground">
                 <Check className="w-4 text-green-600" />
